@@ -4,7 +4,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 OMG HI PO
 
-As the name implies, this is my twentieth (!) design for HTML5 UP. Since the last
+ggggggrrrrrrrrr
 few have been single page affairs, I decided to go with something a bit more conventional
 and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
 built on HTML5/CSS3, and CCA licensed like all my other stuff. Sass sources are also
